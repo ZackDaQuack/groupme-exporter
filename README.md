@@ -21,10 +21,8 @@ Everything runs locally in your browser. Nothing is sent to any third-party serv
 [![Install](https://img.shields.io/badge/Install%20from-Greasy%20Fork-orange?style=for-the-badge)](https://greasyfork.org/en/scripts/606520-groupme-chat-exporter)  
 
 Or manually install it:
-1. Open `groupme-exporter.user.js` in this repo and click **Raw** and copy the code
-2. Visit [web.groupme.com](https://web.groupme.com/) and log in.
-3. Open the userscript extention, click the plus button.
-4. Paste the code into the editor and install
+1. Open `groupme-exporter.user.js` in this repo and click **Raw**
+2. The userscript manager should popup, then click install.
 
 ## Usage
 
